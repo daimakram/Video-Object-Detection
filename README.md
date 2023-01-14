@@ -1,4 +1,4 @@
-# HoughNet: Integrating near and long-range evidence for bottom-up object detection
+# Video Object Detection using Yolov5 and Seq NMS
 
 Official PyTorch implementation of HoughNet.
 
